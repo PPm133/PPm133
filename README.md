@@ -1,4 +1,4 @@
-### Hi I'm Param M👋
+### Hi I'm Param 👋
 
 <!--
 **PPm133/PPm133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
